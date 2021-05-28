@@ -1,0 +1,95 @@
+body {
+    background-image: url("nice-10.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 25px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  /* Right-aligned section inside the top navigation */
+  .topnav-right {
+    float: right;
+  }
+  .button { 
+    background-color: Transparent;
+    color:white;
+    padding: 14px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 7px 3px;
+    transition-duration: 0.4s;
+    border: 2px solid #f1f7f1;
+    margin: 0;
+    position: absolute;
+    top: 400px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  .box{
+    display: flex;
+    position: relative;
+    left: 14%;
+    font-size: 25px;
+    color:rgba(31, 28, 28, 0.521);
+  }
+  .item{
+    flex: 1 1 auto;
+  
+  }
+  .box2{
+    display: flex;
+    position: relative;
+    left: 2%;
+    top: -35px;
+    font-size: 15px;
+    color:rgba(31, 28, 28, 0.521);
+  }
+  .item2{
+    flex: 1 1 auto;
+  
+  }
+  .box3{
+    display: flex;
+    position: relative;
+    left: 14%;
+    font-size: 25px;
+    color:rgba(31, 28, 28, 0.521);
+  }
+  .item3{
+    flex: 1 1 auto;
+  
+  }
+  .box4{
+    display: flex;
+    position: relative;
+    left: 2%;
+    top: -35px;
+    font-size: 15px;
+    color:rgba(31, 28, 28, 0.521);
+  }
+  .item4{
+    flex: 1 1 auto;
+  
+  }
+
+  
+  
